@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SallesMenWeb.Models.ViewModels;
 using SallesMenWeb.Models;
 using System;
 using System.Collections.Generic;
