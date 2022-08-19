@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SallesMenWeb.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controller // inherits Controller class
     {
         public IActionResult Index()
         {
@@ -17,7 +17,8 @@ namespace SallesMenWeb.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Salles Men Web";
+            ViewData["Who:"] = "Danilo Pereira";
 
             return View();
         }
