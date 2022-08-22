@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SallesMenWeb.Data;
 using SallesMenWeb.Models;
+using SallesMenWeb.Services;
 
 namespace SallesMenWeb
 {
@@ -42,6 +43,7 @@ namespace SallesMenWeb
                         builder.MigrationsAssembly("SallesMenWeb")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
