@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SallesMenWeb.Models;
 
-namespace SallesMenWeb.Data
+namespace SallesMenWeb.Models
 {
     public class SallesMenWebContext : DbContext
     {
