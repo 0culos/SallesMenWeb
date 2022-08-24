@@ -18,7 +18,7 @@ namespace SallesMenWeb.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Salles Men Web";
+            ViewData["Message"] = "Sales Men Web";
             ViewData["Who:"] = "Danilo Pereira";
 
             return View();
