@@ -6,6 +6,11 @@ Sales Men Web é uma aplicação web construída ao final do curso C# COMPLETO P
 
 A aplicação consiste em um sistema de vendas e vendedores, onde se pode realizar cadastro, pesquisa, atualização e deleção de vendedores e suas vendas.
 
+## Layout web
+![Web 1](https://github.com/0culos/SallesMenWeb/blob/main/Departments.jpg)
+
+![Web 2](https://github.com/0culos/SallesMenWeb/blob/main/SalesRecords.jpg)
+
 # Tecnologias utilizadas
 - Linguagens: C#, HTML
 - Framework: ASP.Net Core MVC
