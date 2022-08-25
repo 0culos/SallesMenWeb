@@ -9,7 +9,9 @@ A aplicação consiste em um sistema de vendas e vendedores, onde se pode realiz
 ## Layout web
 ![Web 1](https://github.com/0culos/SallesMenWeb/blob/main/Departments.jpg)
 
-![Web 2](https://github.com/0culos/SallesMenWeb/blob/main/SalesRecords.jpg)
+![Web 2](https://github.com/0culos/SallesMenWeb/blob/main/Sellers.jpg)
+
+![Web 3](https://github.com/0culos/SallesMenWeb/blob/main/SalesRecords.jpg)
 
 # Tecnologias utilizadas
 - Linguagens: C#, HTML
